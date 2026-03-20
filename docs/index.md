@@ -1,7 +1,11 @@
 ---
 title: "Introduction to R Course"
 layout: "home"
-description: ""
+description: "For a gentle and thorough introduction to R, enroll in this Introduction to R quercus course here. To enroll, you will need to use your UTORid login. This course consists of demonstration video, activity and quizzes. By enrolling in this course, you can keep track of your progress! If you are a member of the public and you do not have a UTORid login, you can access the videos in the following guide below."
+created_date: 2022-09-16
+staff:
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe
 permalink: "/"  #! Remove this if not the homepage
 ---
 
@@ -43,10 +47,7 @@ To continue learning R, you can find additional learning resources here:
 
 * MDL R Tutorials: [https://mdl.library.utoronto.ca/tools/rLinks to an external site.](https://mdl.library.utoronto.ca/tools/r)
 * R cheat sheets: [https://www.rstudio.com/resources/cheatsheets/(Links to an external site.)](https://www.rstudio.com/resources/cheatsheets/)
-* R blog: [https://www.r\-bloggers.com/](https://www.r-bloggers.com/)
+* R blog: [https://www.r-bloggers.com/](https://www.r-bloggers.com/)
 
  
-
- 
-
-Tools: [R](/tools/r-0)**Date Created:** 2022\-09\-16**Updated:** 2023\-10\-27
+Tools: [R](https://mdl.library.utoronto.ca/tools/r-0)
