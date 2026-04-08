@@ -22,8 +22,8 @@ This course has multiple modules. Each module consists of a few videos. It will 
 
 Welcome (2 min)
 <iframe
-  width="560"
-  height="315"
+  width="100%"
+  height=500
   src="https://play.library.utoronto.ca/embed/93ce883ae17ab2a635fe30d46c789b5b"
   frameborder="0"
   allowfullscreen>
@@ -31,8 +31,8 @@ Welcome (2 min)
 
 Install R and RStudio (3 min)
 <iframe
-  width="560"
-  height="315"
+  width="100%"
+  height=500
   src="https://play.library.utoronto.ca/embed/04146e604fe5d528824cc56d7fd923a1"
   frameborder="0"
   allowfullscreen>
@@ -40,8 +40,8 @@ Install R and RStudio (3 min)
 
 Course Material (3 min)
 <iframe
-  width="560"
-  height="315"
+  width="100%"
+  height=500
   src="https://play.library.utoronto.ca/embed/19940f6be6351955ba9c8fa34c5b63b8"
   frameborder="0"
   allowfullscreen>
@@ -49,8 +49,8 @@ Course Material (3 min)
 
 RStudio (10 min)
 <iframe
-  width="560"
-  height="315"
+  width="100%"
+  height=500
   src="https://play.library.utoronto.ca/embed/fb962267f1d9190395cf657c0b2d69fb"
   frameborder="0"
   allowfullscreen>
@@ -61,8 +61,8 @@ RStudio (10 min)
 
 Data Types and Data Structures (11 min)
 <iframe
-  width="560"
-  height="515"
+  width="100%"
+  height=500
   src="https://play.library.utoronto.ca/watch/148b78f4965abb89cb18b6a77743e208"
   frameborder="0"
   allowfullscreen>
@@ -70,8 +70,8 @@ Data Types and Data Structures (11 min)
 
 Importing and Exporting Data (13 min)
 <iframe
-  width="560"
-  height="515"
+  width="100%"
+  height=500
   src="https://play.library.utoronto.ca/watch/703b69f8e556a882e15ec0e42fa3bc37"
   frameborder="0"
   allowfullscreen>
@@ -82,8 +82,8 @@ Importing and Exporting Data (13 min)
 
 Exploring Data part 1 (7 min)
 <iframe
-  width="560"
-  height="315"
+  width="100%"
+  height=500
   src="https://play.library.utoronto.ca/embed/606fafec5967d96b69ed43a920a12ff9"
   frameborder="0"
   allowfullscreen>
@@ -91,8 +91,8 @@ Exploring Data part 1 (7 min)
 
 Exploring Data part 2 (9 min)
 <iframe
-  width="560"
-  height="315"
+  width="100%"
+  height=500
   src="https://play.library.utoronto.ca/embed/10333ae5383a22d35985bce2d06baf43"
   frameborder="0"
   allowfullscreen>
@@ -100,8 +100,8 @@ Exploring Data part 2 (9 min)
 
 Graphs (9 min)
 <iframe
-  width="560"
-  height="315"
+  width="100%"
+  height=500
   src="https://play.library.utoronto.ca/embed/d38b319ec07d7cb2f61bfb1e1dff8ab4"
   frameborder="0"
   allowfullscreen>
@@ -111,8 +111,8 @@ Graphs (9 min)
 
 New Variables (13 min)
 <iframe
-  width="560"
-  height="315"
+  width="100%"
+  height=500
   src="https://play.library.utoronto.ca/embed/18e6ef1560d23272f520808be7efcefd"
   frameborder="0"
   allowfullscreen>
@@ -120,8 +120,8 @@ New Variables (13 min)
 
 Managing Data (7 min)
 <iframe
-  width="560"
-  height="315"
+  width="100%"
+  height=500
   src="https://play.library.utoronto.ca/embed/f89779949d3ea9fe50febbdfa916d590"
   frameborder="0"
   allowfullscreen>
@@ -132,8 +132,8 @@ Managing Data (7 min)
 
 Tidyverse (11 min)
 <iframe
-  width="560"
-  height="315"
+  width="100%"
+  height=500
   src="https://play.library.utoronto.ca/embed/adbf425f3bf291c67ac33098353f2910"
   frameborder="0"
   allowfullscreen>
@@ -141,8 +141,8 @@ Tidyverse (11 min)
 
 R Markdown (9 min)
 <iframe
-  width="560"
-  height="315"
+  width="100%"
+  height=500
   src="https://play.library.utoronto.ca/embed/bbce8afaae8020c66398b62bfe454727"
   frameborder="0"
   allowfullscreen>
