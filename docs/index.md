@@ -156,4 +156,4 @@ To continue learning R, you can find additional learning resources here:
 * R blog: [https://www.r-bloggers.com/](https://www.r-bloggers.com/)
 
  
-Tools: [R](https://mdl.library.utoronto.ca/tools/r-0)
+Technique: [Data Visualization](https://mdl.library.utoronto.ca/technique/data-visualization), [Cleaning data](https://mdl.library.utoronto.ca/technique/cleaning-data), [Extracting data](https://mdl.library.utoronto.ca/technique/extracting-data) | Tools: [R](https://mdl.library.utoronto.ca/tools/r-0)
