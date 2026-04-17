@@ -154,3 +154,5 @@ To continue learning R, you can find additional learning resources here:
 * MDL R Tutorials: [https://mdl.library.utoronto.ca/tools/rLinks to an external site.](https://mdl.library.utoronto.ca/tools/r)
 * R cheat sheets: [https://www.rstudio.com/resources/cheatsheets/(Links to an external site.)](https://www.rstudio.com/resources/cheatsheets/)
 * R blog: [https://www.r-bloggers.com/](https://www.r-bloggers.com/)
+
+Tools: [R](https://mdlutoronto.github.io/tutorials-search/?tool=R)
